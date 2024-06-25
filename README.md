@@ -16,8 +16,8 @@
 
 ## 參考資料
 > [!CAUTION]
-> 各種水井力學跟地下水的學問
-> 順便分享，我發現這門酷學問可以是一門三學分的課==[點我看看](https://ntut-course.gnehs.net/course/105/1/219589)
+> - 各種水井力學跟地下水的學問
+> - 順便分享，我發現這門酷學問可以是一門三學分的課==[點我看看](https://ntut-course.gnehs.net/course/105/1/219589)
 1. [https://homepage.ntu.edu.tw/~bach/Groundwater2.pdf](https://homepage.ntu.edu.tw/~bach/Groundwater2.pdf)
 2. [https://www.slideserve.com/kaden/5775877](https://www.slideserve.com/kaden/5775877)
 3. [https://ebook.dorts.gov.taipei/ebook/no6/index.html#p=74](https://ebook.dorts.gov.taipei/ebook/no6/index.html#p=74)
