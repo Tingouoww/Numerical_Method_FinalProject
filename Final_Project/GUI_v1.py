@@ -297,7 +297,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "地下水水位模擬系統"))
-        MainWindow.setWindowIcon(QIcon('main.ico'))  # 设置窗口图标
+        MainWindow.setWindowIcon(QIcon('main.ico')) 
         self.label_Ky.setText(_translate("MainWindow", "Ky(含水層y向導水係數)："))
         self.label_ny.setText(_translate("MainWindow", "ny(含水層y方向空間步數)："))
         self.label_nx.setText(_translate("MainWindow", "nx(含水層x方向空間步數)："))
