@@ -211,7 +211,8 @@ class Ui_MainWindow(object):
                 border-radius: 4px;
             }
         """)
-        
+
+        # "模擬"按鈕
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton.setGeometry(QtCore.QRect(1300, 80, 180, 60))
         # self.pushButton = QtWidgets.QPushButton(self.gridLayoutWidget)
