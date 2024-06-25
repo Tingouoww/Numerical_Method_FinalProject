@@ -2,6 +2,4 @@
 > 112-2數值方法期末專題
 
 ## 資料說明
-- [程式碼資料夾](Final Project)
-- [主程式](Final Project/groundwater.py)
-- [UI介面檔案](Final Project/GUI_v1.py)
+
